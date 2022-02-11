@@ -1,4 +1,4 @@
-# Machine-Learning-Project
+# Machine
 Australia Weather Forecast.
 
 The dataset used contains about 10 years of daily weather observations from many locations across Australia.
