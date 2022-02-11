@@ -22,4 +22,12 @@ Concatenate the two sub-tables.
 ### 2.Pre-modelling 
 * Standardizes the data.
 * Reduce the dementionality of the dataset to 20 with PCA since the independent variables sinificantly increased to 110 from One-hot Encoding.
+![standardize and PCA](https://user-images.githubusercontent.com/92283861/153624210-d081b9f4-ff9f-4753-9bbd-eb74b6439389.png)
+
 * Data is highly imbalanced, to rebalance the dataset by SMOTEENN in order to prevent bias.
+![SMOTEENN](https://user-images.githubusercontent.com/92283861/153624220-f7150688-80fc-4b99-93a8-b8d481e8b570.png)
+
+### Modelling
+* Create the training set and testing set.
+* Train a Logistic Regression Model (with 84% accuracy).
+* Train a Random Forest Model (with 93% accuracy).
