@@ -29,5 +29,10 @@ Concatenate the two sub-tables.
 
 ### Modelling
 * Create the training set and testing set.
+![training set and testing set](https://user-images.githubusercontent.com/92283861/153625428-1a934f2b-1679-40b3-91b9-8e9be88b3395.png)
+
 * Train a Logistic Regression Model (with 84% accuracy).
+![Log](https://user-images.githubusercontent.com/92283861/153625442-6fb3b18b-27f3-4bcd-8ecc-db6fa649a468.png)
+
 * Train a Random Forest Model (with 93% accuracy).
+![randomforest](https://user-images.githubusercontent.com/92283861/153625449-5e885717-0039-4af9-8b70-357dba6a8d8c.png)
