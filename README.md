@@ -27,7 +27,7 @@ Concatenate the two sub-tables.
 * Data is highly imbalanced, to rebalance the dataset by SMOTEENN in order to prevent bias.
 ![SMOTEENN](https://user-images.githubusercontent.com/92283861/153624220-f7150688-80fc-4b99-93a8-b8d481e8b570.png)
 
-### Modelling
+### 3.Modelling
 * Create the training set and testing set.
 ![training set and testing set](https://user-images.githubusercontent.com/92283861/153625428-1a934f2b-1679-40b3-91b9-8e9be88b3395.png)
 
